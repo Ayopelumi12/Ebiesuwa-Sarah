@@ -99,7 +99,6 @@ form{
   padding: 10px;
   display-items:center;
   text-align:center;
-  display:flex;
 }
 .input{
   box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.06);
@@ -107,8 +106,7 @@ form{
   box-sizing:border-box
 }
 textarea{
-  width:100%;
-  box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.06);
+ box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.06);
   border:0;
 }
 footer{
