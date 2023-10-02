@@ -97,6 +97,7 @@ box-shadow: 0 1rem 1rem rgba(0, 0, .1);
 form{
   background-color: #f2f2f2;
   text-align:center;
+  display-items:center;
 }
 .input{
   border-radius:5px;
