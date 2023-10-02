@@ -73,7 +73,7 @@ box-shadow: 0 1rem 1rem rgba(0, 0, .1);
 .fa-css3{
   color:#2163af;
 }
-.fa-code, .fa-bold, .fa-css3, ..fa-js{
+.fa-code, .fa-bold, .fa-css3, .fa-js{
   font-size: 4rem;
   margin: 1rem;
 }
@@ -96,7 +96,10 @@ box-shadow: 0 1rem 1rem rgba(0, 0, .1);
 }
 form{
   background-color: #f2f2f2;
-  padding: 100px;
+  padding: 10px;
+  display-items:center;
+  text-align:center;
+  display:flex;
 footer{
   background-color: #3f3f3f;
   color:#d5d5d5;
