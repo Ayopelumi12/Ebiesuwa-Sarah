@@ -100,13 +100,13 @@ form{
   display-items:center;
 }
 .input{
-  border-radius:5px;
-  box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.06);
+  border-radius:7px;
+  padding:10px;
 }
 textarea{
  box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.06);
   border:0;
-  border-radius:6px;
+  border-radius:7px;
 }
 footer{
   background-color: #3f3f3f;
