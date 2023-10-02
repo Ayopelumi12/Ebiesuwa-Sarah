@@ -73,7 +73,7 @@ box-shadow: 0 1rem 1rem rgba(0, 0, .1);
 .fa-css3{
   color:#2163af;
 }
-.fa-code, .fa-bold, .fa-css3{
+.fa-code, .fa-bold, .fa-css3, fa-js{
   font-size: 4rem;
   margin: 1rem;
 }
@@ -189,8 +189,8 @@ hr.light-100{
  padding: 2px 4px;
 }
 table,th,td{
-border: 1px solid black;
-border-radius: 200px;
+border: 2px solid black;
+border-radius: 10px;
 }
 .display-4{
   font-size: 200%;
