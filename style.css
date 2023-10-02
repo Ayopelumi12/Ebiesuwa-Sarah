@@ -96,14 +96,13 @@ box-shadow: 0 1rem 1rem rgba(0, 0, .1);
 }
 form{
   background-color: #f2f2f2;
-  padding: 10px;
+  
   display-items:center;
   text-align:center;
 }
 .input{
   box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.06);
-  border:10;
-  box-sizing:border-box
+   box-sizing:border-box
 }
 textarea{
  box-shadow:0 0 15px 4px rgba(0, 0, 0, 0.06);
